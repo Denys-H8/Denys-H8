@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Hrytseniuk Denys. I'm student at NURE.
+- 👋 Hi, my name is Denys Hrytseniuk. I'm a student at NURE.
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning React and React Native.
 - 📫 How to reach me: denys.hrytseniuk.work@gmail.com
